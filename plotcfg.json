@@ -1,0 +1,9 @@
+{
+    "label": [
+        "humidity",
+        "temperature"
+    ],
+    "title": "Thermmeter",
+    "width": 100,
+    "period": 100
+}
